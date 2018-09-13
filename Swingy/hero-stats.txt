@@ -1,0 +1,12 @@
+Test Hero,warrior,1,2019,15,10,50,spear,jacket,nasal,/goinfre/lmashiya/Desktop/swungy/src/main/java/packages/images/10a9e8a11da92681a5024cefbe34c95c.png
+hlokes,elf,0,0,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+thatos,knight,0,200,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+you,knight,0,0,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+esrth,knight,0,0,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+skarlaakin,villager,1,1253,17,12,50,sword,curass,nasal,src/main/java/packages/images/default-image.png
+lombok,knight,0,610,15,12,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+Afric,knight,0,108,15,12,52,spear,jacket,pot,/goinfre/lmashiya/Downloads/ninja3.png
+neoghbourhero,knight,0,257,17,10,52,spear,jacket,frog_mouthed,/goinfre/lmashiya/Downloads/ninja3.png
+dipuo,warrior,0,0,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png
+9gag,knight,0,0,15,10,50,spear,jacket,nasal,/goinfre/mphaka/Desktop/swungy/src/main/java/packages/images/zombie-walking.png
+9Gag,knight,0,0,15,10,50,spear,jacket,nasal,src/main/java/packages/images/default-image.png

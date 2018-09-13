@@ -1,0 +1,15 @@
+thatos (50HP) VS Frieza (30HP)
+Frieza hits thatos with a Super-Nova Attack, Causing 11 damage.
+thatos: 39HP - Frieza: 30HP
+thatos hits Frieza with a Fire-bending Attack, Causing 4 damage.
+thatos: 39HP - Frieza: 26HP
+Frieza hits thatos with a Hammer Attack, Causing 11 damage.
+thatos: 28HP - Frieza: 26HP
+Frieza hits thatos with a Witchcraft Attack, Causing 11 damage.
+thatos: 17HP - Frieza: 26HP
+thatos hits Frieza with a Infinity Gauntlet Attack, Causing 4 damage.
+thatos: 17HP - Frieza: 22HP
+Frieza hits thatos with a Massacre Axe Attack, Causing 11 damage.
+thatos: 6HP - Frieza: 22HP
+Frieza hits thatos with a Massacre Axe Attack, Causing 11 damage.
+thatos: -5HP - Frieza: 22HP
